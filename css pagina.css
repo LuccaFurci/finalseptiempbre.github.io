@@ -1,0 +1,34 @@
+.derechosre{text-align:right ;
+}
+.parrafot{text-align: left;}
+
+
+body{background-color: beige;
+    font-family: 'Josefin Sans', sans-serif;
+   
+        min-height: 100vh;
+        display: flex;
+        flex-direction: column;
+    }
+    
+
+
+.foto{height: 200px;
+      width: 250px;
+      display: inline-block;}
+
+
+.parrafo{display: inline-block;}
+
+
+.header{background-color: blanchedalmond;}
+
+
+
+
+footer{
+    margin-top: auto;
+}
+
+
+.botonsup{ background-color: beige; padding: 5px; border: 5px; border-radius: 5px;}
